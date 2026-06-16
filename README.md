@@ -6,18 +6,17 @@
 
 ---
 
+## A GenAI / LLM Engineer & AI Systems Builder
 <table>
 <tr>
 <td valign="top" width="55%">
 
-### A GenAI / LLM Engineer & AI Systems Builder 🤖
-
-- 🎓 4th-year **B.Tech IT** student @ GHRCE Nagpur (CGPA: 8.27)
-- 🔭 Currently building **RAG pipelines** & **multi-agent systems**
-- 🌱 Deep-diving into **LangChain**, **Gemini API**, and **vector retrieval**
-- 💼 1+ year of experience shipping GenAI apps **to production**
-- 📫 Reach me at **aryalolusare0909@gmail.com**
-- ⚡ Fun fact: I own problems **end-to-end** — from prompt to deployment
+-  4th-year **B.Tech IT** student @ GHRCE Nagpur (CGPA: 8.27)
+-  Currently building **RAG pipelines** & **multi-agent systems**
+-  Deep-diving into **LangChain**, **Gemini API**, and **vector retrieval**
+-  1+ year of experience shipping GenAI apps **to production**
+-  Reach me at **aryalolusare0909@gmail.com**
+-  Fun fact: I own problems **end-to-end** — from prompt to deployment
 
 <br/>
 
@@ -39,7 +38,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
+##  Languages and Tools
 
 **LLM & GenAI:**
 
