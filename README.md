@@ -8,7 +8,7 @@
 <tr>
 <td valign="top" width="55%">
 
--  4th-year **B.Tech IT** student @ GHRCE Nagpur (CGPA: 8.27)
+-  4th-year **B.Tech IT** student @ GHRCE Nagpur
 -  Currently building **RAG pipelines** & **multi-agent systems**
 -  Deep-diving into **LangChain**, **Gemini API**, and **vector retrieval**
 -  1+ year of experience shipping GenAI apps **to production**
