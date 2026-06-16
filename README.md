@@ -1,9 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Arya%20Lolusare&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=GenAI%20%2F%20LLM%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=AryaLolusare2712&label=Profile%20Views&color=A78BFA&style=flat)
-
 ---
 
 ## A GenAI / LLM Engineer & AI Systems Builder
