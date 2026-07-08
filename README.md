@@ -1,6 +1,10 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Arya%20Lolusare&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=GenAI%20%2F%20LLM%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6D28D9&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%F0%9F%94%8D;Designing+Multi-Agent+Systems+%F0%9F%A4%96;Shipping+GenAI+Apps+to+Production+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
 ---
 
 ## GenAI Engineer | Building AI Agents, RAG Pipelines & LLM-Powered Products
