@@ -106,28 +106,28 @@ Real-time collaborative coding platform built with a team — live multi-user co
 
 **LLM & GenAI:**
 
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-1A73E8?style=flat-square&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-A78BFA?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-B45309?style=flat-square&logo=huggingface&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6D28D9?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-Pipelines-6D28D9?style=flat-square)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-7C3AED?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_Systems-5B21B6?style=flat-square)
 
 **Languages & Frameworks:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B45309?style=flat-square&logo=openjdk&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-C0392B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-C2410C?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-C0392B?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-B45309?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Databases & Tools:**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-A78BFA?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_DB-5B21B6?style=flat-square)
+![Git](https://img.shields.io/badge/Git-C0392B?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
@@ -135,8 +135,8 @@ Real-time collaborative coding platform built with a team — live multi-user co
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AryaLolusare2712&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaLolusare2712&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-sandy-five-41.vercel.app/api?username=AryaLolusare2712&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-sandy-five-41.vercel.app/api/top-langs/?username=AryaLolusare2712&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
