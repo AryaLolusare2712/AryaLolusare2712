@@ -15,7 +15,7 @@
 - 🚀 Built and deployed multiple GenAI applications to production
 - 🔭 Currently building: **multi-agent workflows** for real-world decision support
 - 🌱 Currently learning: **advanced retrieval strategies** & **agent orchestration**
-- 📫 Reach me at **aryalolusare0909@gmail.com**
+- 📫 Open to collaborations and internships
 
 <br/>
 
