@@ -3,17 +3,16 @@
 
 ---
 
-## A GenAI / LLM Engineer & AI Systems Builder
+## GenAI Engineer | Building AI Agents, RAG Pipelines & LLM-Powered Products
 <table>
 <tr>
 <td valign="top" width="55%">
 
 -  4th-year **B.Tech IT** student @ GHRCE Nagpur
--  Currently building **RAG pipelines** & **multi-agent systems**
+-  Building **AI Agents**, **RAG Pipelines** & **LLM Applications**
 -  Deep-diving into **LangChain**, **Gemini API**, and **vector retrieval**
 -  1+ year of experience shipping GenAI apps **to production**
 -  Reach me at **aryalolusare0909@gmail.com**
--  Fun fact: I own problems **end-to-end** — from prompt to deployment
 
 <br/>
 
