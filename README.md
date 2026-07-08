@@ -9,13 +9,13 @@
 <tr>
 <td valign="top" width="55%">
 
--  4th-year **B.Tech IT** student @ GHRCE Nagpur
--  Building **AI Agents**, **RAG Pipelines** & **LLM Applications**
--  Deep-diving into **LangChain**, **Gemini API**, and **vector retrieval**
--  🚀 Built and deployed multiple GenAI applications to production
--  🔭 Currently building: multi-agent workflows for real-world decision support
--  🌱 Currently learning: advanced retrieval strategies & agent orchestration
--  Reach me at **aryalolusare0909@gmail.com**
+- 🎓 Final-year **B.Tech (Information Technology)** student at GHRCE Nagpur
+- 🤖 Building **AI Agents**, **RAG Pipelines** & **LLM Applications**
+- ⚙️ Working with **LangChain**, **Gemini API**, **vector search** & **AI agent orchestration**
+- 🚀 Built and deployed multiple GenAI applications to production
+- 🔭 Currently building: **multi-agent workflows** for real-world decision support
+- 🌱 Currently learning: **advanced retrieval strategies** & **agent orchestration**
+- 📫 Reach me at **aryalolusare0909@gmail.com**
 
 <br/>
 
