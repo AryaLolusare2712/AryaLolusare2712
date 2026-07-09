@@ -147,8 +147,4 @@ Real-time collaborative coding platform built with a team — live multi-user co
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaLolusare2712&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AryaLolusare2712&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
