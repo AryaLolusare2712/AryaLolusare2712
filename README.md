@@ -18,7 +18,7 @@
 - 🚀 Built and deployed multiple GenAI applications to production
 - 🔭 Currently building: **multi-agent workflows** for real-world decision support
 - 🌱 Currently learning: **advanced retrieval strategies** & **agent orchestration**
-- 📫 Open to collaborations and internships
+- 📫 Open to collaborations ,internships and job
 
 <br/>
 
