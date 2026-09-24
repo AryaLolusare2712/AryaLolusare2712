@@ -170,19 +170,29 @@ AI-powered analytics dashboard for exploring datasets using natural-language int
 
 ---
 
-# 🌍 Open Source
+# 🌍 Open Source Contributions
 
-### 💙 Gradio Contributor
+### 💙 Gradio
 
 Contributed to **Gradio**, an open-source Python library for building machine learning and AI interfaces.
 
-<p align="center">
-
 <a href="https://github.com/gradio-app/gradio">
-<img src="https://img.shields.io/badge/Gradio-Open_Source-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-Contribution-FF7C00?style=for-the-badge&logo=gradio&logoColor=white"/>
 </a>
 
-</p>
+---
+
+### 🤖 Build Your Own ChatBot — Qwen
+
+Contributed improvements to a **Qwen-powered chatbot**, including chat history handling, error handling, streaming, and documentation.
+
+<a href="https://github.com/evapatel123/Build-Your-Own-ChatBot">
+<img src="https://img.shields.io/badge/Qwen_Chatbot-Contribution-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br>
+
+**Tech:** `Qwen2.5-1.5B-Instruct` · `Gradio` · `Python`
 
 ---
 
