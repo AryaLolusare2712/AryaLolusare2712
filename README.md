@@ -1,10 +1,6 @@
-# Hi, I'm Arya Lolusare 👋
+## About Me
 
-### Software Engineer | GenAI, LLMs & Backend Systems
-
-I'm a final-year **B.Tech Information Technology student at G.H. Raisoni College of Engineering, Nagpur**, focused on building practical **GenAI applications, LLM-powered systems, multi-agent architectures, and backend solutions**.
-
-I work with **Python, Gemini API, RAG, LangChain, Multi-Agent Systems, FastAPI, REST APIs, Machine Learning, and vector databases**.
+A final-year **B.Tech Information Technology student** with strong foundations in Python, GenAI, LLMs, and backend development. Experienced in building RAG pipelines, multi-agent systems, and AI applications using Gemini API, LangChain, FastAPI, and vector databases. Passionate about building production-oriented AI solutions and real-world applications.
 
 ---
 
@@ -26,6 +22,10 @@ I work with **Python, Gemini API, RAG, LangChain, Multi-Agent Systems, FastAPI, 
 
 <p align="left">
 
+<a href="mailto:aryalolusare0909@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <a href="https://www.linkedin.com/in/arya-lolusare-6530662b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -43,7 +43,3 @@ I work with **Python, Gemini API, RAG, LangChain, Multi-Agent Systems, FastAPI, 
 </a>
 
 </p>
-
----
-
-> **Building reliable software and intelligent AI systems that solve real-world problems.**
