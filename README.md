@@ -6,7 +6,7 @@ A final-year **B.Tech Information Technology student** with strong foundations i
 
 ## 🛠️ Tech Stack
 
-`Python` `Java` `SQL` `Gemini API` `RAG` `Multi-Agent Systems` `LangChain` `Hugging Face Transformers` `Prompt Engineering` `Embeddings` `FastAPI` `REST APIs` `Backend Development` `PyTorch` `Scikit-learn` `Machine Learning` `NLP` `Deep Learning` `Pandas` `NumPy` `MySQL` `ChromaDB` `Git` `GitHub` `Gradio` `Streamlit` `Hugging Face Spaces`
+`Python` `SQL` `Gemini API` `RAG` `Multi-Agent Systems` `LangChain` `Hugging Face Transformers` `Prompt Engineering` `Embeddings` `FastAPI` `REST APIs` `Backend Development` `PyTorch` `Scikit-learn` `Machine Learning` `NLP` `Deep Learning` `Pandas` `NumPy` `MySQL` `ChromaDB` `Git` `GitHub` `Gradio` `Streamlit` `Hugging Face Spaces`
 
 ---
 
