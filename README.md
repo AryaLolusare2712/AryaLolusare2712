@@ -1,25 +1,27 @@
-# Hey there, I'm Arya Lolusare
 
-###  GenAI & LLM Engineer | Backend Developer | Final-Year B.Tech IT Student
+
+# 👋 Hey there, I'm Arya Lolusare
+
+### 🤖 GenAI & LLM Engineer | ⚙️ Backend Developer | 🎓 Final-Year B.Tech IT Student
 
 Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and multi-agent systems.** Passionate about transforming ideas into production-oriented AI solutions.
 
 ---
 
-##  About Me
+## 👨‍💻 About Me
 
--  Final-year **B.Tech Information Technology** student
--  Focused on **Generative AI, LLMs, RAG, and Multi-Agent Systems**
--  Experienced in building AI applications using **Python, LangChain, Gemini API, and FastAPI**
--  Exploring LLM orchestration, prompt engineering, embeddings, and AI system design
--  Continuously learning about scalable backend systems and production-ready AI
--  Aspiring **GenAI / LLM Engineer and Software Developer**
+- 🎓 Final-year **B.Tech Information Technology** student
+- 🧠 Focused on **Generative AI, LLMs, RAG, and Multi-Agent Systems**
+- 🛠️ Experienced in building AI applications using **Python, LangChain, Gemini API, and FastAPI**
+- 🔍 Exploring LLM orchestration, prompt engineering, embeddings, and AI system design
+- 📈 Continuously learning about scalable backend systems and production-ready AI
+- 🎯 Aspiring **GenAI / LLM Engineer and Software Developer**
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -30,7 +32,7 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-###  Backend & Databases
+### ⚙️ Backend & Databases
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
@@ -39,7 +41,7 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
 </p>
 
-###  Development & Tools
+### 🛠️ Development & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -50,21 +52,24 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aryalolusare0909@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/arya-lolusare-6530662b4">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://alconnects.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://leetcode.com/u/TheShadowWolf/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 ---
+
+✨ *Always learning, building, and exploring the possibilities of AI.*
+
