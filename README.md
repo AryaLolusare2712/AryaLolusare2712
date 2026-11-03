@@ -54,40 +54,6 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 Multi-Agent Problem Solver
-A collaborative AI system where specialized agents research, develop, review, and synthesize solutions to complex problems.
-
-**Tech:** Python, LLMs, Multi-Agent Architecture
-
-[View Repository](https://github.com/AryaLolusare2712/Multi-Agent-Problem-Solver)
-
-### 🌳 ForestWatch
-Satellite-based forest monitoring and prediction system for analyzing vegetation health, detecting forest changes, and identifying high-risk areas.
-
-**Tech:** Python, FastAPI, React, Google Earth Engine, Scikit-learn
-
-[View Repository](https://github.com/AryaLolusare2712/ForestWatch)
-
-### ⚖️ LexAI — Legal Contract Analyzer
-An AI-powered application designed to analyze legal contracts and assist users in understanding important clauses and contractual information.
-
-**Tech:** Python, Generative AI, LLMs
-
-[View Repository](https://github.com/AryaLolusare2712/LexAI-Legal_Contract_Analyzer)
-
----
-
-### 🤝 Contributions
-
-- **[Gradio](https://github.com/gradio-app/gradio)** — Contributed to the Gradio open-source ecosystem.
-- **[Build Your Own ChatBot](https://github.com/evapatel123/Build-Your-Own-ChatBot)** — Contributed to an open-source chatbot project, gaining experience in collaborative development and AI application building.
-
-🔗 **[Explore All My Contributions](https://github.com/AryaLolusare2712?tab=contributions)**
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
