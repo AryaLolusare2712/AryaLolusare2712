@@ -79,13 +79,16 @@ An AI-powered application designed to analyze legal contracts and assist users i
 
 ---
 
-## 🌟 Open Source & Contributions
+## 🌟 Open Source Contributions
 
-- Contributed to open-source projects, including Gradio
-- Interested in improving developer tools and AI-powered applications
-- Continuously exploring opportunities to contribute to the developer community
+I enjoy contributing to open-source projects, collaborating with developers, and improving tools that make development easier.
 
-[Explore my contributions](https://github.com/AryaLolusare2712?tab=contributions)
+| Project | Contribution |
+|---|---|
+| [Gradio](https://github.com/gradio-app/gradio) | Contributed to the open-source ecosystem |
+| [Build Your Own Chatbot](https://github.com/topics/build-your-own-chatbot) | Contributed to an AI chatbot project |
+
+🔗 **[Explore My Contributions](https://github.com/AryaLolusare2712?tab=contributions)**
 
 ---
 
