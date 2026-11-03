@@ -68,7 +68,7 @@ Satellite-based forest monitoring and prediction system for analyzing vegetation
 
 **Tech:** Python, FastAPI, React, Google Earth Engine, Scikit-learn
 
-[View my GitHub repositories](https://github.com/AryaLolusare2712?tab=repositories)
+[View Repository](https://github.com/AryaLolusare2712/ForestWatch)
 
 ### ⚖️ LexAI — Legal Contract Analyzer
 An AI-powered application designed to analyze legal contracts and assist users in understanding important clauses and contractual information.
