@@ -1,45 +1,101 @@
-## About Me
+# Hey there, I'm Arya Lolusare 👋
 
-A final-year **B.Tech Information Technology student** with strong foundations in Python, GenAI, LLMs, and backend development. Experienced in building RAG pipelines, multi-agent systems, and AI applications using Gemini API, LangChain, FastAPI, and vector databases. Passionate about building production-oriented AI solutions and real-world applications.
+### 🚀 GenAI & LLM Engineer | Backend Developer | Final-Year B.Tech IT Student
+
+Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and multi-agent systems.** Passionate about transforming ideas into production-oriented AI solutions.
+
+<p align="center">
+  <a href="https://github.com/AryaLolusare2712">
+    <img src="https://komarev.com/ghpvc/?username=AryaLolusare2712&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year **B.Tech Information Technology** student
+- 🤖 Focused on **Generative AI, LLMs, RAG, and Multi-Agent Systems**
+- 🛠️ Experienced in building AI applications using **Python, LangChain, Gemini API, and FastAPI**
+- 🧠 Exploring LLM orchestration, prompt engineering, embeddings, and AI system design
+- 🌱 Continuously learning about scalable backend systems and production-ready AI
+- 🎯 Aspiring **GenAI / LLM Engineer and Software Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-`Python` `SQL` `Gemini API` `RAG` `Multi-Agent Systems` `LangChain` `Hugging Face Transformers` `Prompt Engineering` `Embeddings` `FastAPI` `REST APIs` `Backend Development` `PyTorch` `Scikit-learn` `Machine Learning` `NLP` `Deep Learning` `Pandas` `NumPy` `MySQL` `ChromaDB` `Git` `GitHub` `Gradio` `Streamlit` `Hugging Face Spaces`
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge"/>
+</p>
+
+### 🌐 Development & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaLolusare2712&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AryaLolusare2712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arya's GitHub Stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaLolusare2712&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaLolusare2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+</p>
+
+[View my repositories on GitHub](https://github.com/AryaLolusare2712?tab=repositories).
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://aryalolusare2712.github.io/ALconnects/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/TheShadowWolf/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-<a href="mailto:aryalolusare0909@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/arya-lolusare-6530662b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <i>“Building intelligent systems, one prompt at a time.”</i>
+</p>
 
-<a href="https://alconnects.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://github.com/AryaLolusare2712">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/TheShadowWolf/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
+<p align="center">
+  ⭐ If you find my work interesting, consider giving my repositories a star!
 </p>
