@@ -56,23 +56,6 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AryaLolusare2712&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Arya's GitHub Stats"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AryaLolusare2712&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaLolusare2712&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-</p>
-
-[View my repositories on GitHub](https://github.com/AryaLolusare2712?tab=repositories).
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
