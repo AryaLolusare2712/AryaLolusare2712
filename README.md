@@ -65,7 +65,7 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
   <a href="https://www.linkedin.com/in/arya-lolusare-6530662b4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://aryalolusare2712.github.io/ALconnects/">
+  <a href="https://alconnects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/TheShadowWolf/">
