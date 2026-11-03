@@ -4,12 +4,6 @@
 
 Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and multi-agent systems.** Passionate about transforming ideas into production-oriented AI solutions.
 
-<p align="center">
-  <a href="https://github.com/AryaLolusare2712">
-    <img src="https://komarev.com/ghpvc/?username=AryaLolusare2712&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -59,8 +53,8 @@ Building intelligent applications with **Generative AI, LLMs, RAG pipelines, and
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="aryalolusare0909@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:aryalolusare0909@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/arya-lolusare-6530662b4">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
